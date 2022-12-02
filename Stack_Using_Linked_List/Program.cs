@@ -13,4 +13,8 @@ namespace StackUsingLinkedList_CSharp
         }
     }
     
+    class Stacks
+    {
+
+    }
 }
